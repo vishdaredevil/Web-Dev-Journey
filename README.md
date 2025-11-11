@@ -1,4 +1,4 @@
-# 🌐 Web Development Journey – MERN Stack Mastery 🚀
+# 🌐 Web Development Journey – MERN Stack Mastery 
 
 Welcome to my **Web Development Journey Repository**, where I document everything I learn while mastering the **MERN (MongoDB, Express.js, React, Node.js)** stack.
 
